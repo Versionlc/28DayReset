@@ -1,0 +1,41 @@
+name: Daily Telegram 28-Day Reset
+
+on:
+  schedule:
+    # GitHub Actions cron uses UTC.
+    # 14:07 UTC = 8:07 AM MDT. During MST, use 15:07 UTC for 8:07 AM.
+    - cron: "7 14 * * *"
+  workflow_dispatch:
+
+jobs:
+  send-message:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - run: python send_daily.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Optional: set PROGRAM_START_DATE as a repository variable or secret in YYYY-MM-DD format.
+          # If omitted, progress_state.json increments one day per successful run.
+          PROGRAM_START_DATE: ${{ vars.PROGRAM_START_DATE }}
+
+      - name: Save progress state
+        run: |
+          if [ -f progress_state.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add progress_state.json
+            git commit -m "Update Telegram reset progress" || echo "No changes to commit"
+            git push
+          fi
