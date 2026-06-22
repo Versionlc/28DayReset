@@ -6,7 +6,8 @@
     "rule": "Do not clean the whole room. Stop when the timer ends.",
     "why": "The goal is to teach your brain that starting does not mean being trapped in a huge task.",
     "time_required": "1 minute",
-    "check_in": "Did starting feel easier than expected, harder than expected, or about the same?"
+    "check_in": "Did starting feel easier than expected, harder than expected, or about the same?",
+    "big_toe": "Lowering entropy begins with a clear intent followed by a small, concrete action."
   },
   {
     "day": 2,
@@ -15,7 +16,8 @@
     "rule": "No organizing, sorting, or decision-making. Only obvious items count.",
     "why": "Fast wins lower resistance and give your brain visible proof that order can return quickly.",
     "time_required": "1-2 minutes",
-    "check_in": "What was the easiest item to put away?"
+    "check_in": "What was the easiest item to put away?",
+    "big_toe": "Each obvious item returned to order is feedback that coherent intent can change the local reality frame."
   },
   {
     "day": 3,
@@ -24,7 +26,8 @@
     "rule": "Do not open drawers, boxes, or closets. Only scan what is visible.",
     "why": "Visible trash creates mental noise. Removing it gives the fastest environmental relief.",
     "time_required": "1-2 minutes",
-    "check_in": "Did the space feel even slightly lighter afterward?"
+    "check_in": "Did the space feel even slightly lighter afterward?",
+    "big_toe": "Removing visible noise improves the signal-to-noise ratio of your immediate experience."
   },
   {
     "day": 4,
@@ -33,7 +36,8 @@
     "rule": "Only one surface. Do not chase nearby messes.",
     "why": "A clean edge creates contrast. Contrast makes progress visible, which builds motivation.",
     "time_required": "2 minutes",
-    "check_in": "What surface would give you the biggest relief if it stayed clear?"
+    "check_in": "What surface would give you the biggest relief if it stayed clear?",
+    "big_toe": "One clean edge is a small pocket of lower entropy; it makes order perceptible and therefore easier to choose again."
   },
   {
     "day": 5,
@@ -42,7 +46,8 @@
     "rule": "Keep only what you genuinely use at night or in the morning.",
     "why": "Your first and last visual environment matters because it frames the day emotionally.",
     "time_required": "3 minutes",
-    "check_in": "What item did not belong there?"
+    "check_in": "What item did not belong there?",
+    "big_toe": "The space around sleep affects the quality of attention you bring into and out of the day."
   },
   {
     "day": 6,
@@ -51,7 +56,8 @@
     "rule": "The timer is the boundary. Stopping on time is part of the practice.",
     "why": "Keeping the task small protects consistency. Overdoing it can make tomorrow harder.",
     "time_required": "2 minutes",
-    "check_in": "Did you stop on time, or did you keep going?"
+    "check_in": "Did you stop on time, or did you keep going?",
+    "big_toe": "Stopping when intended matters because discipline is not force; it is coherent control of attention and action."
   },
   {
     "day": 7,
@@ -60,7 +66,8 @@
     "rule": "No catching up. No guilt. Just notice what worked.",
     "why": "Reflection turns random effort into a system you can repeat.",
     "time_required": "3 minutes",
-    "check_in": "Which task gave the best return for the least effort?"
+    "check_in": "Which task gave the best return for the least effort?",
+    "big_toe": "Review converts experience into usable information, which is how consciousness learns from feedback."
   },
   {
     "day": 8,
@@ -69,7 +76,8 @@
     "rule": "Remove trash, group obvious items, stop at 5 minutes.",
     "why": "Small contained spaces are easier because they have clear borders.",
     "time_required": "5 minutes",
-    "check_in": "Did the drawer need organizing, or did it need fewer items?"
+    "check_in": "Did the drawer need organizing, or did it need fewer items?",
+    "big_toe": "A bounded drawer is a miniature reality system: fewer variables make better organization possible."
   },
   {
     "day": 9,
@@ -78,7 +86,8 @@
     "rule": "Make it functional, not perfect.",
     "why": "A usable workspace reduces the activation cost of starting other tasks.",
     "time_required": "5 minutes",
-    "check_in": "What is the main thing that keeps landing on your desk?"
+    "check_in": "What is the main thing that keeps landing on your desk?",
+    "big_toe": "A clear workspace reduces environmental uncertainty, freeing attention for higher-quality choices."
   },
   {
     "day": 10,
@@ -87,7 +96,8 @@
     "rule": "Shoes, bags, mail, keys, and jackets get priority.",
     "why": "Entry clutter spreads because it is tied to transitions. Fixing the transition point blocks future mess.",
     "time_required": "5 minutes",
-    "check_in": "What needs a better home near the entrance?"
+    "check_in": "What needs a better home near the entrance?",
+    "big_toe": "Transition points are entropy gates; improving them prevents disorder from spreading through the system."
   },
   {
     "day": 11,
@@ -96,7 +106,8 @@
     "rule": "Do not solve every tech problem. Just reduce visible cable chaos.",
     "why": "Tangled small items create disproportionate visual irritation.",
     "time_required": "5 minutes",
-    "check_in": "Which cable or device is always in the wrong place?"
+    "check_in": "Which cable or device is always in the wrong place?",
+    "big_toe": "Tangled cables are a visible metaphor for tangled information; simplifying them reduces unnecessary cognitive drag."
   },
   {
     "day": 12,
@@ -105,7 +116,8 @@
     "rule": "Only return items that belong on that shelf now.",
     "why": "A shelf is a visible commitment. Leaving empty space is part of the win.",
     "time_required": "5 minutes",
-    "check_in": "What did you almost put back but probably should not?"
+    "check_in": "What did you almost put back but probably should not?",
+    "big_toe": "Leaving empty space is not absence; it is usable order and reduced future decision load."
   },
   {
     "day": 13,
@@ -114,7 +126,8 @@
     "rule": "Simple is fine. This is not about hotel corners.",
     "why": "A fast early completion gives the day a small structure before avoidance builds momentum.",
     "time_required": "2 minutes",
-    "check_in": "Did it change how the room felt later?"
+    "check_in": "Did it change how the room felt later?",
+    "big_toe": "An early completed action creates a low-entropy pattern for the rest of the day to follow."
   },
   {
     "day": 14,
@@ -123,7 +136,8 @@
     "rule": "Look for the cause, not the mess itself.",
     "why": "Clutter often repeats because the system is missing, not because discipline is missing.",
     "time_required": "5 minutes",
-    "check_in": "What keeps creating the same mess?"
+    "check_in": "What keeps creating the same mess?",
+    "big_toe": "Looking for causes instead of symptoms is moving from reaction to higher-quality information processing."
   },
   {
     "day": 15,
@@ -132,7 +146,8 @@
     "rule": "Do the same three actions in the same order.",
     "why": "Sequence reduces thinking. Reduced thinking increases follow-through.",
     "time_required": "3 minutes",
-    "check_in": "Which step felt most useful?"
+    "check_in": "Which step felt most useful?",
+    "big_toe": "A repeated sequence lowers decision entropy by turning intention into a reliable operating pattern."
   },
   {
     "day": 16,
@@ -141,7 +156,8 @@
     "rule": "Prepare the environment for tomorrow, not for perfection.",
     "why": "Evening resets prevent yesterday’s mess from becoming tomorrow’s resistance.",
     "time_required": "3 minutes",
-    "check_in": "What would make tomorrow morning easier?"
+    "check_in": "What would make tomorrow morning easier?",
+    "big_toe": "Preparing tomorrow's environment is a present choice that reduces future uncertainty."
   },
   {
     "day": 17,
@@ -150,7 +166,8 @@
     "rule": "Examples: mail pile, laundry drop zone, dishes near desk, unopened packages.",
     "why": "A system beats repeated cleanup. The strongest fix prevents mess from forming.",
     "time_required": "5-7 minutes",
-    "check_in": "What clutter source deserves a permanent rule?"
+    "check_in": "What clutter source deserves a permanent rule?",
+    "big_toe": "The best entropy reduction happens upstream: prevent repeated disorder instead of repeatedly repairing it."
   },
   {
     "day": 18,
@@ -159,7 +176,8 @@
     "rule": "The home must be easy to use, not merely logical.",
     "why": "People avoid putting things away when the storage location is inconvenient.",
     "time_required": "5 minutes",
-    "check_in": "Which item needs to live closer to where you actually use it?"
+    "check_in": "Which item needs to live closer to where you actually use it?",
+    "big_toe": "A usable home for an item reduces randomness by aligning the system with actual behavior."
   },
   {
     "day": 19,
@@ -168,7 +186,8 @@
     "rule": "Leave tools, remove distractions.",
     "why": "A workspace should cue action. Extra objects cue avoidance and task-switching.",
     "time_required": "5 minutes",
-    "check_in": "What object pulls your attention away most often?"
+    "check_in": "What object pulls your attention away most often?",
+    "big_toe": "A workspace should serve intent; removing distractions reduces competing signals in the local reality frame."
   },
   {
     "day": 20,
@@ -177,7 +196,8 @@
     "rule": "Do not search the whole house. One obvious item is enough.",
     "why": "A visible exit path makes future decluttering easier because the decision has somewhere to go.",
     "time_required": "3 minutes",
-    "check_in": "What category of items are you keeping out of habit?"
+    "check_in": "What category of items are you keeping out of habit?",
+    "big_toe": "An exit path for unused items transforms stagnant information into movement and resolution."
   },
   {
     "day": 21,
@@ -186,7 +206,8 @@
     "rule": "Keep both routines short enough to do on a bad day.",
     "why": "A routine that survives low-motivation days is more valuable than an impressive routine you abandon.",
     "time_required": "5 minutes",
-    "check_in": "Which routine is more important for you: morning or evening?"
+    "check_in": "Which routine is more important for you: morning or evening?",
+    "big_toe": "A routine that survives low-energy days has lower entropy than a fragile ideal routine."
   },
   {
     "day": 22,
@@ -195,7 +216,8 @@
     "rule": "Trash, dishes, clothes, surfaces, floor. Move fast and stop at 5 minutes.",
     "why": "A fixed sequence prevents overwhelm when the space has several kinds of mess.",
     "time_required": "5 minutes",
-    "check_in": "Which category created the biggest visible change?"
+    "check_in": "Which category created the biggest visible change?",
+    "big_toe": "A fixed sweep sequence organizes chaos by giving attention a clear path through multiple variables."
   },
   {
     "day": 23,
@@ -204,7 +226,8 @@
     "rule": "Trash, recycle, donate, or relocate. Do not create a sorting mountain.",
     "why": "Removing excess lowers the maintenance burden. Less stuff means fewer future decisions.",
     "time_required": "7 minutes",
-    "check_in": "Was it harder to start or harder to decide?"
+    "check_in": "Was it harder to start or harder to decide?",
+    "big_toe": "Fewer unnecessary objects means fewer future choices, fewer distractions, and less entropy to maintain."
   },
   {
     "day": 24,
@@ -213,7 +236,8 @@
     "rule": "Example: after Saturday breakfast, after trash night, after Sunday coffee.",
     "why": "Habits stick better when attached to existing routines instead of floating on intention.",
     "time_required": "5 minutes",
-    "check_in": "What existing weekly event is most reliable?"
+    "check_in": "What existing weekly event is most reliable?",
+    "big_toe": "Anchoring a habit to an existing event uses the structure already present in the system."
   },
   {
     "day": 25,
@@ -222,7 +246,8 @@
     "rule": "Maximum 5 steps. If it needs more, it is too complicated.",
     "why": "A visible checklist externalizes memory and lowers the cost of restarting after missed days.",
     "time_required": "5 minutes",
-    "check_in": "What step belongs first because it creates the fastest relief?"
+    "check_in": "What step belongs first because it creates the fastest relief?",
+    "big_toe": "A checklist externalizes memory, reducing mental load and making coherent action easier to repeat."
   },
   {
     "day": 26,
@@ -231,7 +256,8 @@
     "rule": "Move one bin, tray, hook, basket, or container to where the behavior already happens.",
     "why": "The best organization matches actual behavior rather than ideal behavior.",
     "time_required": "7 minutes",
-    "check_in": "What did your current setup assume you would do that you do not actually do?"
+    "check_in": "What did your current setup assume you would do that you do not actually do?",
+    "big_toe": "Effective organization respects what is, not what the ego imagines should be."
   },
   {
     "day": 27,
@@ -240,7 +266,8 @@
     "rule": "Make it simple enough for a tired person to follow.",
     "why": "Teaching exposes unnecessary complexity and clarifies the system.",
     "time_required": "5 minutes",
-    "check_in": "What part of the system is simple enough to keep?"
+    "check_in": "What part of the system is simple enough to keep?",
+    "big_toe": "Teaching the method tests whether the pattern is clear, simple, and transferable."
   },
   {
     "day": 28,
@@ -249,6 +276,7 @@
     "rule": "Keep the plan small. The goal is continuation, not escalation.",
     "why": "A 28-day program only matters if it turns into a maintainable system.",
     "time_required": "10 minutes",
-    "check_in": "What is the minimum version you can keep doing for the next 30 days?"
+    "check_in": "What is the minimum version you can keep doing for the next 30 days?",
+    "big_toe": "The goal is not temporary order; it is a sustainable feedback loop that keeps lowering entropy over time."
   }
 ]
