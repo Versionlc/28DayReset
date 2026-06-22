@@ -1,0 +1,254 @@
+[
+  {
+    "day": 1,
+    "theme": "Start so small your brain cannot argue",
+    "task": "Clear one visible surface for exactly 60 seconds.",
+    "rule": "Do not clean the whole room. Stop when the timer ends.",
+    "why": "The goal is to teach your brain that starting does not mean being trapped in a huge task.",
+    "time_required": "1 minute",
+    "check_in": "Did starting feel easier than expected, harder than expected, or about the same?"
+  },
+  {
+    "day": 2,
+    "theme": "Remove obvious friction",
+    "task": "Put away 5 items that clearly already have a home.",
+    "rule": "No organizing, sorting, or decision-making. Only obvious items count.",
+    "why": "Fast wins lower resistance and give your brain visible proof that order can return quickly.",
+    "time_required": "1-2 minutes",
+    "check_in": "What was the easiest item to put away?"
+  },
+  {
+    "day": 3,
+    "theme": "Trash first",
+    "task": "Throw away or recycle 5 pieces of obvious trash.",
+    "rule": "Do not open drawers, boxes, or closets. Only scan what is visible.",
+    "why": "Visible trash creates mental noise. Removing it gives the fastest environmental relief.",
+    "time_required": "1-2 minutes",
+    "check_in": "Did the space feel even slightly lighter afterward?"
+  },
+  {
+    "day": 4,
+    "theme": "One clean edge",
+    "task": "Wipe one counter, desk, table, or shelf.",
+    "rule": "Only one surface. Do not chase nearby messes.",
+    "why": "A clean edge creates contrast. Contrast makes progress visible, which builds motivation.",
+    "time_required": "2 minutes",
+    "check_in": "What surface would give you the biggest relief if it stayed clear?"
+  },
+  {
+    "day": 5,
+    "theme": "Nightstand reset",
+    "task": "Clear your nightstand or the surface closest to where you sleep.",
+    "rule": "Keep only what you genuinely use at night or in the morning.",
+    "why": "Your first and last visual environment matters because it frames the day emotionally.",
+    "time_required": "3 minutes",
+    "check_in": "What item did not belong there?"
+  },
+  {
+    "day": 6,
+    "theme": "Two-minute trust builder",
+    "task": "Clean anything you choose for exactly 2 minutes.",
+    "rule": "The timer is the boundary. Stopping on time is part of the practice.",
+    "why": "Keeping the task small protects consistency. Overdoing it can make tomorrow harder.",
+    "time_required": "2 minutes",
+    "check_in": "Did you stop on time, or did you keep going?"
+  },
+  {
+    "day": 7,
+    "theme": "Review without judgment",
+    "task": "Look back over the first 6 days and choose the task that helped most.",
+    "rule": "No catching up. No guilt. Just notice what worked.",
+    "why": "Reflection turns random effort into a system you can repeat.",
+    "time_required": "3 minutes",
+    "check_in": "Which task gave the best return for the least effort?"
+  },
+  {
+    "day": 8,
+    "theme": "One drawer, not every drawer",
+    "task": "Organize one small drawer for 5 minutes.",
+    "rule": "Remove trash, group obvious items, stop at 5 minutes.",
+    "why": "Small contained spaces are easier because they have clear borders.",
+    "time_required": "5 minutes",
+    "check_in": "Did the drawer need organizing, or did it need fewer items?"
+  },
+  {
+    "day": 9,
+    "theme": "Desk reset",
+    "task": "Clear your main work surface enough to use it comfortably.",
+    "rule": "Make it functional, not perfect.",
+    "why": "A usable workspace reduces the activation cost of starting other tasks.",
+    "time_required": "5 minutes",
+    "check_in": "What is the main thing that keeps landing on your desk?"
+  },
+  {
+    "day": 10,
+    "theme": "Entry point control",
+    "task": "Reset the area where you enter your home.",
+    "rule": "Shoes, bags, mail, keys, and jackets get priority.",
+    "why": "Entry clutter spreads because it is tied to transitions. Fixing the transition point blocks future mess.",
+    "time_required": "5 minutes",
+    "check_in": "What needs a better home near the entrance?"
+  },
+  {
+    "day": 11,
+    "theme": "Cable and charger reset",
+    "task": "Gather and straighten charging cables in one area.",
+    "rule": "Do not solve every tech problem. Just reduce visible cable chaos.",
+    "why": "Tangled small items create disproportionate visual irritation.",
+    "time_required": "5 minutes",
+    "check_in": "Which cable or device is always in the wrong place?"
+  },
+  {
+    "day": 12,
+    "theme": "One shelf boundary",
+    "task": "Clear, wipe, and reset one shelf.",
+    "rule": "Only return items that belong on that shelf now.",
+    "why": "A shelf is a visible commitment. Leaving empty space is part of the win.",
+    "time_required": "5 minutes",
+    "check_in": "What did you almost put back but probably should not?"
+  },
+  {
+    "day": 13,
+    "theme": "Make the bed immediately",
+    "task": "Make your bed as soon as practical today.",
+    "rule": "Simple is fine. This is not about hotel corners.",
+    "why": "A fast early completion gives the day a small structure before avoidance builds momentum.",
+    "time_required": "2 minutes",
+    "check_in": "Did it change how the room felt later?"
+  },
+  {
+    "day": 14,
+    "theme": "Second-week review",
+    "task": "Choose one area from this week and name the recurring cause of clutter.",
+    "rule": "Look for the cause, not the mess itself.",
+    "why": "Clutter often repeats because the system is missing, not because discipline is missing.",
+    "time_required": "5 minutes",
+    "check_in": "What keeps creating the same mess?"
+  },
+  {
+    "day": 15,
+    "theme": "Morning reset system",
+    "task": "Create a 3-minute morning reset: make bed, remove trash, clear one surface.",
+    "rule": "Do the same three actions in the same order.",
+    "why": "Sequence reduces thinking. Reduced thinking increases follow-through.",
+    "time_required": "3 minutes",
+    "check_in": "Which step felt most useful?"
+  },
+  {
+    "day": 16,
+    "theme": "Evening reset system",
+    "task": "Create a 3-minute evening reset: dishes/cups, clothes, tomorrow’s key item.",
+    "rule": "Prepare the environment for tomorrow, not for perfection.",
+    "why": "Evening resets prevent yesterday’s mess from becoming tomorrow’s resistance.",
+    "time_required": "3 minutes",
+    "check_in": "What would make tomorrow morning easier?"
+  },
+  {
+    "day": 17,
+    "theme": "Remove one recurring clutter source",
+    "task": "Pick one recurring clutter source and reduce it at the source.",
+    "rule": "Examples: mail pile, laundry drop zone, dishes near desk, unopened packages.",
+    "why": "A system beats repeated cleanup. The strongest fix prevents mess from forming.",
+    "time_required": "5-7 minutes",
+    "check_in": "What clutter source deserves a permanent rule?"
+  },
+  {
+    "day": 18,
+    "theme": "Give homeless items a home",
+    "task": "Choose 3 frequently misplaced items and assign each a permanent home.",
+    "rule": "The home must be easy to use, not merely logical.",
+    "why": "People avoid putting things away when the storage location is inconvenient.",
+    "time_required": "5 minutes",
+    "check_in": "Which item needs to live closer to where you actually use it?"
+  },
+  {
+    "day": 19,
+    "theme": "Simplify one workspace",
+    "task": "Remove everything from your workspace that does not support the next real task.",
+    "rule": "Leave tools, remove distractions.",
+    "why": "A workspace should cue action. Extra objects cue avoidance and task-switching.",
+    "time_required": "5 minutes",
+    "check_in": "What object pulls your attention away most often?"
+  },
+  {
+    "day": 20,
+    "theme": "Donation box",
+    "task": "Create a donation box or bag and place one item in it.",
+    "rule": "Do not search the whole house. One obvious item is enough.",
+    "why": "A visible exit path makes future decluttering easier because the decision has somewhere to go.",
+    "time_required": "3 minutes",
+    "check_in": "What category of items are you keeping out of habit?"
+  },
+  {
+    "day": 21,
+    "theme": "System review",
+    "task": "Write your best 3-minute morning reset and best 3-minute evening reset.",
+    "rule": "Keep both routines short enough to do on a bad day.",
+    "why": "A routine that survives low-motivation days is more valuable than an impressive routine you abandon.",
+    "time_required": "5 minutes",
+    "check_in": "Which routine is more important for you: morning or evening?"
+  },
+  {
+    "day": 22,
+    "theme": "Whole-room sweep",
+    "task": "Do a 5-minute reset of one room.",
+    "rule": "Trash, dishes, clothes, surfaces, floor. Move fast and stop at 5 minutes.",
+    "why": "A fixed sequence prevents overwhelm when the space has several kinds of mess.",
+    "time_required": "5 minutes",
+    "check_in": "Which category created the biggest visible change?"
+  },
+  {
+    "day": 23,
+    "theme": "Ten-item release",
+    "task": "Remove 10 unnecessary items from one small area.",
+    "rule": "Trash, recycle, donate, or relocate. Do not create a sorting mountain.",
+    "why": "Removing excess lowers the maintenance burden. Less stuff means fewer future decisions.",
+    "time_required": "7 minutes",
+    "check_in": "Was it harder to start or harder to decide?"
+  },
+  {
+    "day": 24,
+    "theme": "Weekly trigger",
+    "task": "Choose a weekly cleaning trigger tied to something you already do.",
+    "rule": "Example: after Saturday breakfast, after trash night, after Sunday coffee.",
+    "why": "Habits stick better when attached to existing routines instead of floating on intention.",
+    "time_required": "5 minutes",
+    "check_in": "What existing weekly event is most reliable?"
+  },
+  {
+    "day": 25,
+    "theme": "Visible checklist",
+    "task": "Create a short checklist for your reset routine and put it where you will see it.",
+    "rule": "Maximum 5 steps. If it needs more, it is too complicated.",
+    "why": "A visible checklist externalizes memory and lowers the cost of restarting after missed days.",
+    "time_required": "5 minutes",
+    "check_in": "What step belongs first because it creates the fastest relief?"
+  },
+  {
+    "day": 26,
+    "theme": "Optimize a high-use area",
+    "task": "Improve one area you use every day so it is easier to reset later.",
+    "rule": "Move one bin, tray, hook, basket, or container to where the behavior already happens.",
+    "why": "The best organization matches actual behavior rather than ideal behavior.",
+    "time_required": "7 minutes",
+    "check_in": "What did your current setup assume you would do that you do not actually do?"
+  },
+  {
+    "day": 27,
+    "theme": "Teach the method",
+    "task": "Explain your 3-minute reset method to someone or write it as if teaching it.",
+    "rule": "Make it simple enough for a tired person to follow.",
+    "why": "Teaching exposes unnecessary complexity and clarifies the system.",
+    "time_required": "5 minutes",
+    "check_in": "What part of the system is simple enough to keep?"
+  },
+  {
+    "day": 28,
+    "theme": "Final review and next month plan",
+    "task": "Choose your permanent daily reset, weekly reset, and one clutter rule for next month.",
+    "rule": "Keep the plan small. The goal is continuation, not escalation.",
+    "why": "A 28-day program only matters if it turns into a maintainable system.",
+    "time_required": "10 minutes",
+    "check_in": "What is the minimum version you can keep doing for the next 30 days?"
+  }
+]
