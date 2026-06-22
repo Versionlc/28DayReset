@@ -4,7 +4,7 @@ on:
   schedule:
     # GitHub Actions cron uses UTC.
     # 14:07 UTC = 8:07 AM MDT. During MST, use 15:07 UTC for 8:07 AM.
-    - cron: "7 14 * * *"
+    - cron: "0 23 * * *"
   workflow_dispatch:
 
 jobs:
