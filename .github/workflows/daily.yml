@@ -38,11 +38,10 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
 
-            git pull --rebase origin main
-
             git add progress_state.json
             git commit -m "Update Telegram reset progress" || echo "No changes to commit"
 
+            git pull --rebase origin main
             git push origin main
           else
             echo "progress_state.json not found"
